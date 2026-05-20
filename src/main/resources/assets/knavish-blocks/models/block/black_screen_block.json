@@ -1,4 +1,5 @@
 {
+  "ambientocclusion": false,
   "parent": "minecraft:block/cube_all",
   "textures": {
     "all": "knavish-blocks:block/black_screen_block"

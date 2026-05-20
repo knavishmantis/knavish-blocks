@@ -61,5 +61,19 @@
   "block.knavish-blocks.blue_screen_block": "Blue Screen Block",
   "block.knavish-blocks.red_screen_block": "Red Screen Block",
   "block.knavish-blocks.black_screen_block": "Black Screen Block",
-  "block.knavish-blocks.white_screen_block": "White Screen Block"
+  "block.knavish-blocks.white_screen_block": "White Screen Block",
+  "block.knavish-blocks.purple_screen_block": "Purple Screen Block",
+  "block.knavish-blocks.magenta_screen_block": "Magenta Screen Block",
+  "block.knavish-blocks.yellow_screen_block": "Yellow Screen Block",
+  "block.knavish-blocks.cyan_screen_block": "Cyan Screen Block",
+  "block.knavish-blocks.orange_screen_block": "Orange Screen Block",
+
+  "block.knavish-blocks.camera": "Camera",
+  "block.knavish-blocks.camera_taller": "Camera (Tall)",
+  "block.knavish-blocks.desk": "Desk",
+  "block.knavish-blocks.dragon_egg": "Dragon Egg Figure",
+  "block.knavish-blocks.microphone": "Microphone",
+  "block.knavish-blocks.sniffer_figure": "Sniffer Figure",
+  "block.knavish-blocks.small_dragon_egg": "Small Dragon Egg Figure",
+  "block.knavish-blocks.small_sniffer_figure": "Small Sniffer Figure"
 }

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "knavish-blocks:block/yellow_screen_block"
+    }
+  }
+}

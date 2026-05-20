@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "knavish-blocks:block/camera" },
+    "facing=south": { "model": "knavish-blocks:block/camera", "y": 180 },
+    "facing=west":  { "model": "knavish-blocks:block/camera", "y": 270 },
+    "facing=east":  { "model": "knavish-blocks:block/camera", "y": 90 }
+  }
+}

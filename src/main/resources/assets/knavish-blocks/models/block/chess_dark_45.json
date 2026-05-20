@@ -1,1 +1,6 @@
-{"parent":"block/cube_all","textures":{"all":"knavish-blocks:block/chess_dark_45"}}
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "knavish-blocks:block/chess_dark_45"
+  }
+}
